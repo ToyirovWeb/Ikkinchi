@@ -1,9 +1,9 @@
 img{
-border: solid 2px;
+border: solid 5px aqua;
 border-radius: 120px;
-padding: 10px;
-margin: 100px;
-  position:absolute;
-left: 50%;
- transform: translate(-50% -50%);
+  margin-left: 50%;
+  margin-right: 50%;
+  }
+body{
+  background-color: red;
   }
