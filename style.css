@@ -1,9 +1,9 @@
+body{
+background-color: red;
+  }
 img{
 border: solid 5px aqua;
 border-radius: 120px;
   margin-left: 50%;
   margin-right: 50%;
-  }
-body{
-  background-color: red;
   }
